@@ -19,6 +19,10 @@
     ];
 </script>
 
+<svelte:head>
+    <title>Sponsors | Kiwi Youth Jam</title>
+</svelte:head>
+
 
 <div class="margin-y-20">
 	<h2 class="text-8xl font-display text-center font-logo">The Sponsors</h2>
