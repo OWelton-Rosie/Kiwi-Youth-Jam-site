@@ -25,7 +25,7 @@
 
 
 <div class="margin-y-20">
-	<h2 class="text-8xl font-display text-center font-logo">The Sponsors</h2>
+	<h2 class="text-8xl font-display text-center font-logo">Our Sponsors</h2>
 </div>
 <br>
 
