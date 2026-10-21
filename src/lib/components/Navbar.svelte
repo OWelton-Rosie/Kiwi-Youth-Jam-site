@@ -3,7 +3,7 @@
 
 	const navBar = [
 		{ text: "[About]", href: "/#about" },
-		{ text: "[Contacts]", href: "/#contacts" },
+		{ text: "[Contact us]", href: "/#contact" },
 		{ text: "[Events]", href: "/events" },
 		{ text: "[The Team]", href: "/team" },
 		{ text: "[Game Showcase]", href: "/games" },

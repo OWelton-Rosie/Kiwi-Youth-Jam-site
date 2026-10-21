@@ -63,9 +63,9 @@
 
     </div>
 </section>
-<section id="contacts" class="flex justify-center bg-light text-xl">
+<section id="contact" class="flex justify-center bg-light text-xl">
 	<div class="text-black p-10 max-w-7xl">
-	    <h2 class="text-5xl font-display text-center">Contacts?</h2>
+	    <h2 class="text-5xl font-display text-center">Contact us</h2>
 		<br>
     </div>
 </section>
