@@ -7,7 +7,7 @@
 		{ text: "[Events]", href: "/events" },
 		{ text: "[The Team]", href: "/team" },
 		{ text: "[Game Showcase]", href: "/games" },
-		{ text: "[Sponsors]", href: "/sponsors" },
+		{ text: "[Our Sponsors]", href: "/sponsors" },
 	];
 </script>
 
